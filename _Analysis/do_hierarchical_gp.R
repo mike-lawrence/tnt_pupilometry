@@ -44,6 +44,7 @@ print(length(unique(dat$time))) #complete set is too big
 dat$x = round0(dat$time,50) #round to 50ms bins
 print(length(unique(dat$x))) #smaller set
 
+#average within time
 dat %>%
 	group_by(
 		id
