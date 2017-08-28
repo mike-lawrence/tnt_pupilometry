@@ -3,3 +3,4 @@
 *.edf
 *.rdata
 *.rds
+.Rproj.user
