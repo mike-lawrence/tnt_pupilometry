@@ -1,0 +1,362 @@
+4953.201	areyouready	LOADING RESOURCE SURFACE FROM DISK
+4402126.926	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4402128.493	StudyPhase[1].LearningPhase_1.Word_1	flip time is later than desired time. Desired Time=4401863 Flip Time=4402146 Retrace Rate=16.641, prepareTime=289 flip request time 4402128
+4405916.498	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4409699.997	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4413483.473	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4417305.875	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4417307.396	StudyPhase[1].LearningPhase_1.Word_1	flip time is later than desired time. Desired Time=4417279 Flip Time=4417329 Retrace Rate=16.641, prepareTime=51 flip request time 4417307
+4421134.251	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4421135.772	StudyPhase[1].LearningPhase_1.Word_1	flip time is later than desired time. Desired Time=4421113 Flip Time=4421146 Retrace Rate=16.641, prepareTime=46 flip request time 4421135
+4424952.339	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4424953.91	StudyPhase[1].LearningPhase_1.Word_1	flip time is later than desired time. Desired Time=4424929 Flip Time=4424963 Retrace Rate=16.641, prepareTime=48 flip request time 4424953
+4428733.009	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4432516.685	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4436300.074	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4440368.839	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4440370.369	StudyPhase[1].LearningPhase_1.Word_1	flip time is later than desired time. Desired Time=4440096 Flip Time=4440379 Retrace Rate=16.641, prepareTime=298 flip request time 4440370
+4444150.052	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4447933.154	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4451716.363	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4455500.173	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4459283.186	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4463066.331	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4466850.059	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4470633.271	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4474416.718	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4478200.313	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4481983.51	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4485766.677	StudyPhase[1].LearningPhase_1.Word_1	LOADING RESOURCE SURFACE FROM DISK
+4609842.405	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4609843.999	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	flip time is later than desired time. Desired Time=4609579 Flip Time=4609863 Retrace Rate=16.641, prepareTime=288 flip request time 4609843
+4612562.61	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4614349.877	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4617375.199	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4619166.625	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4621596.75	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4623419.496	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4623421.003	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	flip time is later than desired time. Desired Time=4623396 Flip Time=4623429 Retrace Rate=16.641, prepareTime=48 flip request time 4623420
+4625397.15	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4627183.196	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4629775.308	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4631566.851	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4634622.208	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4636461.557	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4636463.128	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	flip time is later than desired time. Desired Time=4636429 Flip Time=4636479 Retrace Rate=16.641, prepareTime=57 flip request time 4636462
+4639411.306	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4641200.042	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4644225.637	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4646016.633	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4648558.546	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4650350.144	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4653443.463	StudyPhase[1].TestFeedback_1[1].FeedbackPB_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4655233.547	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4658258.857	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4660050.2	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4663075.355	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4664866.793	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4667892.061	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4669683.652	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4672708.995	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4674500.429	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4677525.77	StudyPhase[1].TestFeedback_1[1].FeedbackPB_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4679316.845	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4682342.115	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4684133.907	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4687159.221	StudyPhase[1].TestFeedback_1[1].FeedbackPB_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4688950.37	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4691975.607	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4693766.682	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4696792.43	StudyPhase[1].TestFeedback_1[1].FeedbackPB_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4698583.825	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4701609.194	StudyPhase[1].TestFeedback_1[1].FeedbackPB_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4703400.565	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4706425.648	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4708217.216	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4711522.143	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4713349.908	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4713351.572	StudyPhase[1].TestFeedback_1[1].Hint_1[1]	flip time is later than desired time. Desired Time=4713329 Flip Time=4713363 Retrace Rate=16.641, prepareTime=45 flip request time 4713351
+4716342.489	StudyPhase[1].TestFeedback_1[1].Feedback_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4717472.294	StudyPhase[1].Failed_Criterion_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4717492.995	StudyPhase[1].Failed_Criterion_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4717517.338	StudyPhase[1].Failed_Criterion_1[1]	LOADING RESOURCE SURFACE FROM DISK
+4835600.535	StudyPhase[1].Reached_Criterion_1[2]	LOADING RESOURCE SURFACE FROM DISK
+4835614.472	StudyPhase[1].Reached_Criterion_1[2]	LOADING RESOURCE SURFACE FROM DISK
+4835626.428	StudyPhase[1].Reached_Criterion_1[2]	LOADING RESOURCE SURFACE FROM DISK
+4835638.513	StudyPhase[1].Reached_Criterion_1[2]	LOADING RESOURCE SURFACE FROM DISK
+4853167.518	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4857234.898	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4857236.606	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4856963 Flip Time=4857246 Retrace Rate=16.641, prepareTime=297 flip request time 4857236
+4861017.117	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4864836.074	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4864837.853	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4864813 Flip Time=4864846 Retrace Rate=16.641, prepareTime=48 flip request time 4864837
+4868617.292	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4872443.214	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4872444.953	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4872413 Flip Time=4872463 Retrace Rate=16.641, prepareTime=55 flip request time 4872444
+4876234.211	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4880060.864	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4880062.671	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4880029 Flip Time=4880079 Retrace Rate=16.641, prepareTime=56 flip request time 4880062
+4883913.453	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4883915.161	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4883863 Flip Time=4883929 Retrace Rate=16.641, prepareTime=75 flip request time 4883915
+4887700.757	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4891484.203	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4895310.311	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4895312.103	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4895279 Flip Time=4895329 Retrace Rate=16.641, prepareTime=56 flip request time 4895311
+4899135.048	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4899136.857	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4899113 Flip Time=4899146 Retrace Rate=16.641, prepareTime=47 flip request time 4899136
+4902954.41	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4902956.27	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4902929 Flip Time=4902979 Retrace Rate=16.641, prepareTime=50 flip request time 4902956
+4906750.972	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4910534.237	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4914317.795	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4918100.914	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4921884.234	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4925731.722	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4925733.531	StudyPhase[2].LearningPhase_2.Word_2	flip time is later than desired time. Desired Time=4925679 Flip Time=4925746 Retrace Rate=16.641, prepareTime=77 flip request time 4925733
+4929517.527	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4933300.899	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4937084.558	StudyPhase[2].LearningPhase_2.Word_2	LOADING RESOURCE SURFACE FROM DISK
+4945551.195	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4948576.122	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4950367.276	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4953456.724	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4955251.113	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4957143.039	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4958978.21	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4958979.991	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	flip time is later than desired time. Desired Time=4958946 Flip Time=4958996 Retrace Rate=16.641, prepareTime=57 flip request time 4958979
+4961092.906	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4962884.132	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4964259.535	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4966051.071	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4967693.258	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4969484.424	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4972509.974	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4974301.0	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4976959.678	StudyPhase[2].TestFeedback_2[1].FeedbackPB_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4978751.354	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4981776.707	StudyPhase[2].TestFeedback_2[1].FeedbackPB_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4983602.482	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4983604.331	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	flip time is later than desired time. Desired Time=4983579 Flip Time=4983613 Retrace Rate=16.641, prepareTime=48 flip request time 4983604
+4986626.819	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4988418.008	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4991343.454	StudyPhase[2].TestFeedback_2[1].FeedbackPB_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4993134.607	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4995493.124	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4997284.482	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+4999707.286	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5001535.091	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5001536.987	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	flip time is later than desired time. Desired Time=5001513 Flip Time=5001546 Retrace Rate=16.641, prepareTime=47 flip request time 5001536
+5004599.746	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5006384.538	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5009085.019	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5010868.282	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5013844.861	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5015634.71	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5017209.84	StudyPhase[2].TestFeedback_2[1].FeedbackPB_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5019001.721	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5021651.078	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5023434.936	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5025860.034	StudyPhase[2].TestFeedback_2[1].FeedbackPB_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5027651.391	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5029826.894	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5031618.464	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5034643.586	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5036434.79	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5038677.003	StudyPhase[2].TestFeedback_2[1].Feedback_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5040468.053	StudyPhase[2].TestFeedback_2[1].Hint_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5042317.848	StudyPhase[2].TestFeedback_2[1].FeedbackPB_2[1]	LOADING RESOURCE SURFACE FROM DISK
+5055797.186	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5055799.321	StudyPhase[3].LearningPhase_3.Word_3	flip time is later than desired time. Desired Time=5055529 Flip Time=5055813 Retrace Rate=16.641, prepareTime=293 flip request time 5055799
+5059626.163	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5059628.22	StudyPhase[3].LearningPhase_3.Word_3	flip time is later than desired time. Desired Time=5059596 Flip Time=5059646 Retrace Rate=16.641, prepareTime=55 flip request time 5059628
+5063418.726	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5067202.152	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5070985.446	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5074807.812	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5074809.684	StudyPhase[3].LearningPhase_3.Word_3	flip time is later than desired time. Desired Time=5074779 Flip Time=5074829 Retrace Rate=16.641, prepareTime=54 flip request time 5074809
+5078601.843	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5082385.529	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5086168.968	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5089951.758	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5093735.734	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5097518.92	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5101521.894	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5101523.927	StudyPhase[3].LearningPhase_3.Word_3	flip time is later than desired time. Desired Time=5101313 Flip Time=5101546 Retrace Rate=16.641, prepareTime=234 flip request time 5101523
+5105319.002	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5109102.206	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5112885.53	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5116668.962	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5120452.196	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5124235.443	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5128019.023	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5131802.355	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5135618.795	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5135620.826	StudyPhase[3].LearningPhase_3.Word_3	flip time is later than desired time. Desired Time=5135596 Flip Time=5135629 Retrace Rate=16.641, prepareTime=48 flip request time 5135620
+5139438.807	StudyPhase[3].LearningPhase_3.Word_3	LOADING RESOURCE SURFACE FROM DISK
+5139440.842	StudyPhase[3].LearningPhase_3.Word_3	flip time is later than desired time. Desired Time=5139413 Flip Time=5139463 Retrace Rate=16.641, prepareTime=51 flip request time 5139440
+5147222.771	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5147224.914	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	flip time is later than desired time. Desired Time=5147196 Flip Time=5147246 Retrace Rate=16.641, prepareTime=52 flip request time 5147224
+5149682.607	StudyPhase[3].TestFeedback_3[1].FeedbackPB_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5151468.863	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5154493.976	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5156285.437	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5157961.002	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5159752.094	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5162596.217	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5164418.717	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5164420.835	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	flip time is later than desired time. Desired Time=5164396 Flip Time=5164429 Retrace Rate=16.641, prepareTime=48 flip request time 5164420
+5167478.412	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5169268.625	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5171681.65	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5173468.891	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5175261.125	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5177052.154	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5178877.702	StudyPhase[3].TestFeedback_3[1].FeedbackPB_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5180669.114	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5182477.818	StudyPhase[3].TestFeedback_3[1].FeedbackPB_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5184268.808	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5186311.211	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5188102.401	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5189894.257	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5191685.859	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5193727.796	StudyPhase[3].TestFeedback_3[1].FeedbackPB_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5195519.209	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5197194.257	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5198985.892	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5202010.998	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5203802.44	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5205744.116	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5207535.823	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5209394.64	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5211186.329	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5211188.603	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	flip time is later than desired time. Desired Time=5211196 Flip Time=5211213 Retrace Rate=16.641, prepareTime=16 flip request time 5211188
+5213678.159	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5215469.723	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5215471.838	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	flip time is later than desired time. Desired Time=5215479 Flip Time=5215496 Retrace Rate=16.641, prepareTime=15 flip request time 5215471
+5217427.914	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5219219.371	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5221518.7	StudyPhase[3].TestFeedback_3[1].FeedbackPB_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5223343.431	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5223345.6	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	flip time is later than desired time. Desired Time=5223313 Flip Time=5223363 Retrace Rate=16.641, prepareTime=56 flip request time 5223345
+5225113.901	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5226902.856	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5226905.045	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	flip time is later than desired time. Desired Time=5226913 Flip Time=5226929 Retrace Rate=16.641, prepareTime=16 flip request time 5226904
+5228861.555	StudyPhase[3].TestFeedback_3[1].FeedbackPB_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5230652.832	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5230655.01	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	flip time is later than desired time. Desired Time=5230663 Flip Time=5230679 Retrace Rate=16.641, prepareTime=15 flip request time 5230654
+5233694.634	StudyPhase[3].TestFeedback_3[1].FeedbackPB_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5235486.18	StudyPhase[3].TestFeedback_3[1].Hint_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5238328.345	StudyPhase[3].TestFeedback_3[1].Feedback_3[1]	LOADING RESOURCE SURFACE FROM DISK
+5247153.289	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5251062.737	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5251064.904	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5250946 Flip Time=5251079 Retrace Rate=16.641, prepareTime=142 flip request time 5251064
+5254897.635	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5254899.834	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5254863 Flip Time=5254913 Retrace Rate=16.641, prepareTime=60 flip request time 5254899
+5258686.322	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5262469.56	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5262471.736	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5262479 Flip Time=5262496 Retrace Rate=16.641, prepareTime=16 flip request time 5262471
+5266270.077	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5266272.36	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5266279 Flip Time=5266296 Retrace Rate=16.641, prepareTime=16 flip request time 5266272
+5270069.932	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5270072.222	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5270079 Flip Time=5270096 Retrace Rate=16.641, prepareTime=16 flip request time 5270072
+5273870.193	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5273872.462	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5273879 Flip Time=5273896 Retrace Rate=16.641, prepareTime=16 flip request time 5273872
+5277947.251	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5277949.518	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5277679 Flip Time=5277963 Retrace Rate=16.641, prepareTime=293 flip request time 5277949
+5281780.991	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5281783.421	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5281746 Flip Time=5281796 Retrace Rate=16.641, prepareTime=60 flip request time 5281783
+5285612.052	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5285614.332	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5285579 Flip Time=5285629 Retrace Rate=16.641, prepareTime=58 flip request time 5285614
+5289403.137	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5289405.371	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5289413 Flip Time=5289429 Retrace Rate=16.641, prepareTime=16 flip request time 5289405
+5293203.348	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5293205.701	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5293213 Flip Time=5293229 Retrace Rate=16.641, prepareTime=16 flip request time 5293205
+5297003.433	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5297005.717	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5297013 Flip Time=5297029 Retrace Rate=16.641, prepareTime=16 flip request time 5297005
+5301086.038	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5301088.378	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5300813 Flip Time=5301096 Retrace Rate=16.641, prepareTime=299 flip request time 5301088
+5304916.042	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5304918.433	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5304879 Flip Time=5304929 Retrace Rate=16.641, prepareTime=62 flip request time 5304918
+5308742.122	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5308744.464	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5308713 Flip Time=5308763 Retrace Rate=16.641, prepareTime=55 flip request time 5308744
+5312588.781	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5312591.095	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5312546 Flip Time=5312613 Retrace Rate=16.641, prepareTime=68 flip request time 5312590
+5316420.061	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5316422.337	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5316396 Flip Time=5316446 Retrace Rate=16.641, prepareTime=50 flip request time 5316422
+5320220.409	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5320222.65	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5320229 Flip Time=5320246 Retrace Rate=16.641, prepareTime=16 flip request time 5320222
+5324019.937	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5324022.318	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5324029 Flip Time=5324046 Retrace Rate=16.641, prepareTime=16 flip request time 5324022
+5327820.391	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5327822.689	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5327829 Flip Time=5327846 Retrace Rate=16.641, prepareTime=16 flip request time 5327822
+5331620.04	StudyPhase[4].LearningPhase_4.Word_4	LOADING RESOURCE SURFACE FROM DISK
+5331622.351	StudyPhase[4].LearningPhase_4.Word_4	flip time is later than desired time. Desired Time=5331629 Flip Time=5331646 Retrace Rate=16.641, prepareTime=16 flip request time 5331622
+5340803.41	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5340805.705	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5340813 Flip Time=5340829 Retrace Rate=16.641, prepareTime=16 flip request time 5340805
+5343881.441	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5345670.161	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5345672.472	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5345679 Flip Time=5345696 Retrace Rate=16.641, prepareTime=16 flip request time 5345672
+5347628.867	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5349420.112	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5349422.391	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5349429 Flip Time=5349446 Retrace Rate=16.641, prepareTime=16 flip request time 5349422
+5351561.852	StudyPhase[4].TestFeedback_4[1].FeedbackPB_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5353353.566	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5353356.1	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5353363 Flip Time=5353379 Retrace Rate=16.641, prepareTime=16 flip request time 5353355
+5355555.988	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5357353.756	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5357356.19	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5357363 Flip Time=5357379 Retrace Rate=16.641, prepareTime=16 flip request time 5357356
+5359828.89	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5361620.301	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5361622.716	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5361629 Flip Time=5361646 Retrace Rate=16.641, prepareTime=17 flip request time 5361622
+5363362.588	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5365153.632	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5365155.974	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5365163 Flip Time=5365179 Retrace Rate=16.641, prepareTime=17 flip request time 5365155
+5367645.626	StudyPhase[4].TestFeedback_4[1].FeedbackPB_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5369475.999	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5369478.319	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5369446 Flip Time=5369496 Retrace Rate=16.641, prepareTime=55 flip request time 5369478
+5370879.0	StudyPhase[4].TestFeedback_4[1].FeedbackPB_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5372685.317	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5372687.702	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5372679 Flip Time=5372696 Retrace Rate=16.641, prepareTime=31 flip request time 5372687
+5374920.549	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5376762.228	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5376764.705	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5376729 Flip Time=5376779 Retrace Rate=16.641, prepareTime=58 flip request time 5376764
+5378779.79	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5380611.566	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5380613.936	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5380579 Flip Time=5380629 Retrace Rate=16.641, prepareTime=58 flip request time 5380613
+5383645.66	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5385437.005	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5385439.355	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5385446 Flip Time=5385463 Retrace Rate=16.641, prepareTime=17 flip request time 5385439
+5388479.028	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5390270.42	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5390272.981	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5390279 Flip Time=5390296 Retrace Rate=16.641, prepareTime=17 flip request time 5390272
+5393312.278	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5395104.07	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5395106.615	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5395113 Flip Time=5395129 Retrace Rate=16.641, prepareTime=17 flip request time 5395106
+5398145.89	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5399937.227	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5399939.717	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5399946 Flip Time=5399963 Retrace Rate=16.641, prepareTime=17 flip request time 5399939
+5401979.412	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5403812.96	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5403815.336	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5403779 Flip Time=5403829 Retrace Rate=16.641, prepareTime=59 flip request time 5403815
+5406252.956	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5408054.168	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5408056.637	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5408063 Flip Time=5408079 Retrace Rate=16.641, prepareTime=17 flip request time 5408056
+5410529.654	StudyPhase[4].TestFeedback_4[1].FeedbackPB_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5412320.896	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5412323.375	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5412329 Flip Time=5412346 Retrace Rate=16.641, prepareTime=17 flip request time 5412323
+5415079.159	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5416870.97	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5416873.524	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5416879 Flip Time=5416896 Retrace Rate=16.641, prepareTime=17 flip request time 5416873
+5419129.648	StudyPhase[4].TestFeedback_4[1].FeedbackPB_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5420920.885	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5420923.34	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5420929 Flip Time=5420946 Retrace Rate=16.641, prepareTime=17 flip request time 5420923
+5423962.854	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5425754.499	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5425757.021	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5425763 Flip Time=5425779 Retrace Rate=16.641, prepareTime=17 flip request time 5425756
+5428212.487	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5430004.546	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5430007.194	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5430013 Flip Time=5430029 Retrace Rate=16.641, prepareTime=18 flip request time 5430007
+5433085.105	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5434871.031	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	LOADING RESOURCE SURFACE FROM DISK
+5434873.595	StudyPhase[4].TestFeedback_4[1].Hint_4[1]	flip time is later than desired time. Desired Time=5434879 Flip Time=5434896 Retrace Rate=16.641, prepareTime=17 flip request time 5434873
+5436763.232	StudyPhase[4].TestFeedback_4[1].Feedback_4[1]	LOADING RESOURCE SURFACE FROM DISK

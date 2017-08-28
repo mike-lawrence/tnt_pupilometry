@@ -1,0 +1,6 @@
+.Rproj*
+*.gz
+*.asc
+*.edf
+*.rdata
+*.rds
