@@ -1,5 +1,4 @@
 .Rproj*
-*.gz
 *.asc
 *.edf
 *.rdata
